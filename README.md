@@ -33,3 +33,8 @@ In order to design a fir filter to achieve the de-noising of the speech signal p
 ![image](https://user-images.githubusercontent.com/69566068/124389686-dd29a100-dd05-11eb-84cf-f92e0b54e01b.png)
 
 
+
+# License
+MIT License
+
+
