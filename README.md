@@ -1,4 +1,9 @@
-# De-noising-the-audio-signal-Kaiser-window-method
+# De-noising the audio signal Kaiser window method
+
+# Kaiser window: 
+                             It is a one-parameter family of window functions used in finite impulse response filter design and spectral analysis. The Kaiser window approximates the DPSS window which maximizes the energy concentration in the main lobe but which is difficult to compute. The Kaiser window is an approximation to the prolate spheroidal window, for which the ratio of the main lobe energy to the side lobe energy is maximized. For a Kaiser window of a particular length, the parameter β controls the relative side lobe attenuation. As β increases, the relative side lobe attenuation decreases and the main lobe width increases.
+![image](https://user-images.githubusercontent.com/69566068/124390146-e3208180-dd07-11eb-9800-dfd9b72a141d.png)
+
 
 In order to design a fir filter to achieve the de-noising of the speech signal processing, following steps must be carried out:
   
